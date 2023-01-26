@@ -1,3 +1,6 @@
+#Facebook Ownership Confirmation
+facebook.com, 572181494408143
+
 
 #Adcolony
 adcolony.com, 3368f12496ddc66fae3cca0db962e22f, DIRECT, 1ad675c9de6b5176
